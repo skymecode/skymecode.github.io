@@ -94,6 +94,18 @@ export default navbar([
         ],
       },
       { text: "uniapp", icon: "mobile-screen", prefix: "uniapp/", children: [{ text: "uniapp", link: "1" }] },
+      {
+        text: "Smart Flow",
+        icon: "diagram-project",
+        prefix: "smart-flow/",
+        children: [
+          { text: "013/014 编辑器页面与画布建模", link: "013-014-editor" },
+          { text: "013/014 补充学习记录", link: "013-014-notes" },
+          { text: "015 添加节点的最小闭环", link: "015-add-node" },
+          { text: "016 保存工作流与节点状态", link: "016-save-and-status" },
+          { text: "017/018 工作流执行与动态变量名", link: "017-018-execute-and-dynamic-key" },
+        ],
+      },
     ],
   },
   {

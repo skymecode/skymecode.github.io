@@ -3,7 +3,8 @@ home: true
 layout: Blog
 icon: house
 title: Skyme的博客
-heroImage: /tp.jpg
+heroImage: /tx.jpg
+bgImage: /bz.png
 heroText: Skyme的博客
 heroFullScreen: false
 tagline: 路的尽头依旧是路
