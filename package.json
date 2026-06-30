@@ -1,0 +1,22 @@
+{
+  "name": "skymecode-blog",
+  "description": "a blog for recording study",
+  "version": "1.0.0",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "docs:build": "vuepress-webpack build src",
+    "docs:clean-dev": "vuepress-webpack dev src --clean-cache --host 127.0.0.1 --port 8090",
+    "docs:dev": "vuepress-webpack dev src --host 127.0.0.1 --port 8090",
+    "docs:preview": "npm run docs:build && python3 -m http.server 8092 --bind 127.0.0.1 -d src/.vuepress/dist",
+    "docs:update-package": "npx vp-update"
+  },
+  "devDependencies": {
+    "@vuepress/bundler-webpack": "2.0.0-rc.30",
+    "sass-embedded": "^1.99.0",
+    "sass-loader": "^16.0.8",
+    "vue": "^3.5.34",
+    "vuepress": "2.0.0-rc.30",
+    "vuepress-theme-hope": "2.0.0-rc.107"
+  }
+}
