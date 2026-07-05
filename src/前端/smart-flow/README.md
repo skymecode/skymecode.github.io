@@ -11,3 +11,4 @@ timeline: false
 - [015：添加节点的最小闭环](./015-add-node.md)
 - [016：保存工作流与节点状态](./016-save-and-status.md)
 - [017/018：工作流执行与动态变量名](./017-018-execute-and-dynamic-key.md)
+- [019：让后一个节点使用前一个节点的返回结果](./019-context-template.md)

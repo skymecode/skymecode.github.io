@@ -45,7 +45,12 @@ export default sidebar({
       prefix: "中间件/",
       children: "structure",
     },
-    "博客日志/1",
+    {
+      text: "博客日志",
+      icon: "circle-info",
+      prefix: "博客日志/",
+      children: "structure",
+    },
     "intro",
   ],
 });
