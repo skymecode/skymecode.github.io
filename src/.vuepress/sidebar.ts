@@ -22,6 +22,12 @@ export default sidebar({
       children: "structure",
     },
     {
+      text: "刷题",
+      icon: "code",
+      prefix: "刷题/",
+      children: "structure",
+    },
+    {
       text: "硬件",
       icon: "microchip",
       prefix: "硬件/",

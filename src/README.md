@@ -19,6 +19,11 @@ projects:
     desc: HTML、CSS、JavaScript、Vue 和 uniapp
     link: /前端/
 
+  - icon: code
+    name: 刷题
+    desc: LeetCode Hot 100 题解记录
+    link: /刷题/
+
   - icon: microchip
     name: 硬件
     desc: 嵌入式 Linux 学习记录

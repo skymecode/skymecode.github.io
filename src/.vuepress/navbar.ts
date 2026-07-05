@@ -29,6 +29,12 @@ export default navbar([
     ],
   },
   {
+    text: "刷题",
+    icon: "code",
+    prefix: "/刷题/",
+    children: [{ text: "Hot 100", icon: "fire", link: "hot100/" }],
+  },
+  {
     text: "Linux",
     icon: "terminal",
     link: "/硬件/嵌入式/",
