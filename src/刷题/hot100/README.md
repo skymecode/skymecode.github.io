@@ -7,6 +7,8 @@ timeline: false
 # Hot 100
 
 - [LeetCode 160. 相交链表](./160.md)
+- [LeetCode 198. 打家劫舍](./198.md)
+- [LeetCode 200. 岛屿数量](./200.md)
 - [LeetCode 206. 反转链表](./206.md)
 - [LeetCode 207. 课程表](./207.md)
 - [LeetCode 208. 实现 Trie（前缀树）](./208.md)
