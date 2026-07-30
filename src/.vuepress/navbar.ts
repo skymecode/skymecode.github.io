@@ -26,6 +26,7 @@ export default navbar([
       { text: "Vue", icon: "code", link: "vue/" },
       { text: "uniapp", icon: "mobile-screen", link: "uniapp/" },
       { text: "Smart Flow", icon: "diagram-project", link: "smart-flow/" },
+      { text: "React", icon: "atom", link: "React/" },
     ],
   },
   {
