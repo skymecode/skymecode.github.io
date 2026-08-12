@@ -25,6 +25,7 @@ export default hopeTheme(
     displayFooter: true,
 
     blog: {
+      avatar: "/logo2.png",
       description: "一个前端开发者",
       intro: "/intro.html",
       medias: {
