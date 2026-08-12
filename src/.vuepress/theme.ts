@@ -25,8 +25,8 @@ export default hopeTheme(
     displayFooter: true,
 
     blog: {
-      avatar: "/logo2.png",
-      description: "一个前端开发者",
+      avatar: "/logo2.jpg",
+      description: "hava a good luck",
       intro: "/intro.html",
       medias: {
         GitHub: "https://github.com/skymecode",
