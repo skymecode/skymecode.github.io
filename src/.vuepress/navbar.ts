@@ -27,6 +27,7 @@ export default navbar([
       { text: "uniapp", icon: "mobile-screen", link: "uniapp/" },
       { text: "Smart Flow", icon: "diagram-project", link: "smart-flow/" },
       { text: "React", icon: "atom", link: "React/" },
+      { text: "性能优化", icon: "gauge-high", link: "性能优化/" },
     ],
   },
   {
@@ -43,7 +44,10 @@ export default navbar([
   {
     text: "集合源码",
     icon: "book",
-    link: "/集合源码/",
+    prefix: "/集合源码/",
+    children: [
+      { text: "Collection", icon: "book", link: "Collection/" },
+    ],
   },
   {
     text: "框架",
@@ -61,8 +65,8 @@ export default navbar([
     icon: "gears",
     prefix: "/中间件/",
     children: [
-      { text: "Shiro", link: "shiro.html" },
-      { text: "RabbitMQ", link: "rabbitmq.html" },
+      { text: "Shiro", link: "shiro" },
+      { text: "RabbitMQ", link: "rabbitmq" },
     ],
   },
   { text: "博客日志", icon: "circle-info", link: "/博客日志/" },

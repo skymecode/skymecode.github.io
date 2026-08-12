@@ -21,7 +21,7 @@ export default hopeTheme(
     sidebar,
 
     footer: "路的尽头依旧是路",
-    copyright: "Copyright © 2023 Skyme",
+    copyright: "Copyright © 2026 Skyme",
     displayFooter: true,
 
     blog: {

@@ -15,14 +15,14 @@ description: "👉About Me: ❓：A Java developer with an undergraduate major i
 
 My Skills
 
-# ⭐GitHub Stats:![](https://github-readme-stats.vercel.app/api?username=skymecode&show_icons=true)
+# ⭐GitHub Stats
 
-Top Langs
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skymecode&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skymecode&layout=compact)
 
 # 📱 Socials:
 
-[:email::46559677@qq.com](mailto::email::46559677@qq.com)
+📧 邮箱：[46559677@qq.com](mailto:46559677@qq.com)
 
-😅bilibili:
-
-![](https://img.shields.io/badge/bilibili-pass?link=https%3A%2F%2Fspace.bilibili.com%2F18188466%3Fspm_id_from%3D333.1007.0.0)
+😅 bilibili：[Skyme 的 B 站主页](https://space.bilibili.com/18188466)
