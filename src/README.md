@@ -3,7 +3,7 @@ home: true
 layout: Blog
 icon: house
 title: Skyme的博客
-heroImage: /tx.jpg
+heroImage: /logo1.png
 bgImage: /bz.png
 heroText: Skyme的博客
 heroFullScreen: false

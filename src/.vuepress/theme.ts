@@ -12,7 +12,7 @@ export default hopeTheme(
       url: "https://github.com/skymecode",
     },
 
-    logo: "/tx.jpg",
+    logo: "/logo1.png",
 
     repo: "skymecode/skymecode.github.io",
     docsDir: "src",
