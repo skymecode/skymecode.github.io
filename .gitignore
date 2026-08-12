@@ -4,3 +4,6 @@ node_modules/
 src/.vuepress/.cache/
 src/.vuepress/.temp/
 src/.vuepress/dist/
+
+# 非博客内容的二进制文件
+*.pptx
